@@ -1,0 +1,12 @@
+[
+  {"user_id": "U1", "name": "Tom", "borrowed_books": []},
+  {"user_id": "U2", "name": "Riya", "borrowed_books": []},
+  {"user_id": "U3", "name": "Kabir", "borrowed_books": []},
+  {"user_id": "U4", "name": "Tanya", "borrowed_books": []},
+  {"user_id": "U5", "name": "Rohan", "borrowed_books": []},
+  {"user_id": "U6", "name": "Aarav", "borrowed_books": []},
+  {"user_id": "U7", "name": "Neha", "borrowed_books": []},
+  {"user_id": "U8", "name": "Aditya", "borrowed_books": []},
+  {"user_id": "U9", "name": "Simran", "borrowed_books": []},
+  {"user_id": "U10", "name": "Karan", "borrowed_books": []}
+]
